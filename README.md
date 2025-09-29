@@ -63,7 +63,7 @@ Stable internet connection 🌐
 Run this project, test it, develop it, and make your dream website come true! 😄✨
 
 about me:
-# 👋 Hi, I'm [parsa]  
+# 👋 Hi, I'm [parsa] ![Verified](https://img.shields.io/badge/Verified-Yes-yellow?style=for-the-badge&logoColor=white) 
 ### 💻 Full-Stack Developer | Backend & Frontend Enthusiast | Bot Creator
 
 ---
