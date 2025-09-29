@@ -1,6 +1,8 @@
 
 # 🛒 Small Shopping Website
 
+:python:
+
 This is a **small shopping website** built with **Python** and the **Flask** library.  
 
 ---
