@@ -1,7 +1,7 @@
 
 # 🛒 Small Shopping Website
 
-:python:
+
 
 This is a **small shopping website** built with **Python** and the **Flask** library.  
 
@@ -15,7 +15,7 @@ To install Flask, open your console/terminal and run:
 
 ```bash
 pip install flask
-
+```
 
 ---
 
