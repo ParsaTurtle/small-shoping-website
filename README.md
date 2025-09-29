@@ -63,7 +63,7 @@ Stable internet connection 🌐
 Run this project, test it, develop it, and make your dream website come true! 😄✨
 
 about me:
-# 👋 Hi, I'm [parsa]<img src="https://img.icons8.com/fluency/48/000000/checked.png" width="20"> 
+# 👋 Hi, I'm [parsa]<img scr="https://img.icons8.com/?size=100&id=98A4yZTt9abw&format=png&color=000000">
 ### 💻 Full-Stack Developer | Backend & Frontend Enthusiast | Bot Creator
 
 ---
