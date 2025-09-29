@@ -62,5 +62,39 @@ Stable internet connection 🌐
 
 Run this project, test it, develop it, and make your dream website come true! 😄✨
 
+about me:
+# 👋 Hi, I'm [parsa]  
+### 💻 Full-Stack Developer | Backend & Frontend Enthusiast | Bot Creator
+
+---
+
+### 🔥 Skills & Technologies
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Telebot](https://img.shields.io/badge/Telebot-bot-orange?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Powerful-red?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-Modern-yellow?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-#239120?style=for-the-badge&logo=c-sharp)
+![Kotlin](https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=kotlin)
+
+---
+
+### 🚀 About Me
+- Passionate about creating **bots, web apps, and full-stack projects**.  
+- Experienced in **Backend development**, designing APIs, and working with databases.  
+- Skilled in **Frontend technologies** to make **beautiful and responsive web interfaces**.  
+- Always learning new tools and frameworks to **improve my coding skills**.  
+
+---
+
+### 🌟 Goals
+- Build **innovative projects** that make an impact.  
+- Contribute to **open-source** and collaborate with amazing developers.  
+- Master **full-stack development** and become a top-tier developer.  
+
+
 
 
