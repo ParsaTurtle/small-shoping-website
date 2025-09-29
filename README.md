@@ -8,6 +8,7 @@ This is a **small shopping website** built with **Python** and the **Flask** lib
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
 ![Flask](https://img.shields.io/badge/Flask-2.3-green)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ---
 
