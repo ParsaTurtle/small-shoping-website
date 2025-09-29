@@ -5,6 +5,10 @@
 
 This is a **small shopping website** built with **Python** and the **Flask** library.  
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
+![Flask](https://img.shields.io/badge/Flask-2.3-green)
+
 ---
 
 ## ⚙️ Installation
